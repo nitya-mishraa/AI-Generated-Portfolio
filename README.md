@@ -31,7 +31,7 @@ The goal of this project was to create a **professional, interactive, and AI-enh
 Below are key snapshots of the portfolio website:
 
 ### Home Page
-<img width="1386" height="758" alt="Screenshot 2025-10-02 211406" src="https://github.com/user-attachments/assets/55c7ca31-b8c7-4f35-9385-ea02ca9fdab0" />)
+<img width="1386" height="758" alt="Screenshot 2025-10-02 211406" src="https://github.com/user-attachments/assets/55c7ca31-b8c7-4f35-9385-ea02ca9fdab0" />
 
 ### About Me
 <img width="1568" height="813" alt="Screenshot 2025-10-02 211424" src="https://github.com/user-attachments/assets/3a10bc40-c1af-40d6-ac61-3af413fe8d35" />

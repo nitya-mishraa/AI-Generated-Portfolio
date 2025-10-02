@@ -1,6 +1,6 @@
 # AI-Powered Portfolio Website
 
-This repository contains my **AI-generated personal portfolio website**, built using **Wix AI** as part of the **Future Interns – Prompt Engineering Track (Task 2)**.  
+This repository contains my **AI-generated personal portfolio website**, built using **Wix AI** as part of the **Future Interns – Prompt Engineering Track**.  
 The website showcases my skills, projects, and achievements, while integrating **AI-driven features** such as automated content generation and personalized design suggestions.
 
 ---

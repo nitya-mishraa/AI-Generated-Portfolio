@@ -33,14 +33,22 @@ Below are key snapshots of the portfolio website:
 ### Home Page
 <img width="1386" height="758" alt="Screenshot 2025-10-02 211406" src="https://github.com/user-attachments/assets/55c7ca31-b8c7-4f35-9385-ea02ca9fdab0" />
 
-### About Me
+---
+
+### About Me Section
 <img width="1568" height="813" alt="Screenshot 2025-10-02 211424" src="https://github.com/user-attachments/assets/3a10bc40-c1af-40d6-ac61-3af413fe8d35" />
 
-### Skills
+---
+
+### Skills & Technologies Section
 <img width="1565" height="542" alt="Screenshot 2025-10-02 211438" src="https://github.com/user-attachments/assets/9ebe7ef1-aaac-4187-a472-47680b8b94d5" />
+
+---
 
 ### Projects Section
 <img width="1564" height="718" alt="Screenshot 2025-10-02 211459" src="https://github.com/user-attachments/assets/b753e4b1-82ef-434d-8ade-696c70d59761" />
+
+---
 
 ### Contact Page
 <img width="1563" height="793" alt="Screenshot 2025-10-02 211535" src="https://github.com/user-attachments/assets/0a38a88d-4ca7-4ff2-8784-5c5cd68e0fed" />
@@ -48,7 +56,7 @@ Below are key snapshots of the portfolio website:
 ---
 
 ## Example Prompt: 
-
+```
 Create a clean, professional AI Portfolio Website for me, Nitya Mishra, an aspiring AIML Engineer and Intern. The website should have the following sections: Home, About Me, Skills, Projects, Contact. Use a neutral color theme with pinkish-creme shades, soft and modern.
 
 Home section: introduce me with a friendly headline and short subtext about my passion for AI and ML.
@@ -62,11 +70,8 @@ Projects: highlight my 3 main projects with short descriptions.
 Contact: simple contact form with Name, Email, Message fields.
 
 Make the layout modern, easy to navigate, visually appealing, and suitable for showcasing my portfolio to internships.
-
-
----
-
-## Note  
-The initial prompt I shared in this repository was my **base prompt**.  
-After that, I experimented with and refined multiple additional prompts to generate content, adjust design, and fine-tune sections.  
-This iterative prompt engineering approach helped me achieve a **portfolio website that matched my exact requirements**.
+```
+> #### Note: 
+> The initial prompt I shared in this repository was my **base prompt**.  
+> After that, I experimented with and refined multiple additional prompts to generate content, adjust design, and fine-tune sections.  
+> This iterative prompt engineering approach helped me achieve a **portfolio website that matched my exact requirements**.

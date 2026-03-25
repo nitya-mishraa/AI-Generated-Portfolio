@@ -70,6 +70,3 @@ Make the layout modern, easy to navigate, visually appealing, and suitable for s
 The initial prompt I shared in this repository was my **base prompt**.  
 After that, I experimented with and refined multiple additional prompts to generate content, adjust design, and fine-tune sections.  
 This iterative prompt engineering approach helped me achieve a **portfolio website that matched my exact requirements**.
-
-## My Portfolio
-https://my-site-kw8fq3th-sdonityamishra.wix-vibe.com/
